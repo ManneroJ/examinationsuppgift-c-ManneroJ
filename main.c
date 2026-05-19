@@ -11,6 +11,7 @@ int main() {
     char topStudent[20];
 
     //Tar input av användaren. För varje namn tas 13 heltal
+    
 
     for (int i = 0; i < 5; i++) {
 
